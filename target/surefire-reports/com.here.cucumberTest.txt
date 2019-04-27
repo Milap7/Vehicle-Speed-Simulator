@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.here.cucumberTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.152 s <<< FAILURE! - in com.here.cucumberTest
+initializationError(com.here.cucumberTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.NoClassDefFoundError: cucumber/io/ResourceLoader
+Caused by: java.lang.ClassNotFoundException: cucumber.io.ResourceLoader
+

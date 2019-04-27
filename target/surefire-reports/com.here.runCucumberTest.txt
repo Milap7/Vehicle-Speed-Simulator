@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.here.runCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 4, Time elapsed: 1.168 s - in com.here.runCucumberTest
