@@ -1,15 +1,15 @@
 # Vehicle-Speed-Simulator
-A driverless vehicle requires a program to determine what the appropriate speed is at which it should drive. When a sensor event number is entered, then output the desired speed. There are three driving modes: Normal Mode, Speed Mode and Safe Mode. 
+A program that determines at what the appropriate speed a autonomous vehicle should drive. A sensor event number is entered, then the program outputs the desired speed. There are three driving modes: Normal Mode, Speed Mode and Safe Mode. 
 
 ##### Given Sensor Events:
-##### 1. Traffic 
-##### 2. Clear Traffic
-##### 3. Rainy Weather
-##### 4. Clear Weather
+##### 1. Traffic on the road 
+##### 2. Traffic cleared on the road
+##### 3. Rainy weather expected/currently
+##### 4. Clear weather
 ##### 5. Slippery Road
-##### 6. Slippet Road Clear
+##### 6. Slippet Road cleared
 ##### 7. Turbo
-##### 8. Speed Limit X
+##### 8. Speed Limit
 
 ##### The source code is written in Java, using the Factory Design Pattern that follows SOLID principles.
 
